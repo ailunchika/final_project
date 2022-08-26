@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    display: flex;
     justify-content: space-between;
     padding: ;
     margin-bottom: 0px;
@@ -48,6 +49,8 @@ h1{
     width: 580px;
     text-align: center;
     font-size: 30px;
+    color: #ed009e;
+    padding-top: 44px;
 }
 p{
    width:580px; 
